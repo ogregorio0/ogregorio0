@@ -1,10 +1,13 @@
-### Hi there 👋
+### Oi 👋
+
+Eu sou o **gabrielogregorio/gabrielogregorio** seja bem vindo ao meu quartinho de códigos!
+
+Atualmente estou buscando uma oportunidade para atuar no desenvolvimento front end e você pode ver mais detalhes no meu [portifólio provisório](https://combratec.com.br/gabrielogregorio).
+
+
+Bom, ainda estou arrumando a bagunça, em breve trago um quartinho mais organizado!
 
 <!--
-**gabrielogregorio/gabrielogregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
