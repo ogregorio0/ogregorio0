@@ -2,7 +2,8 @@
 
 Eu sou o **gabrielogregorio/gabrielogregorio** seja bem vindo ao meu quartinho de códigos!
 
-Atualmente estou buscando uma oportunidade para atuar no desenvolvimento front end e você pode ver mais detalhes no meu [portifólio provisório](https://combratec.com.br/gabrielogregorio).
+Atualmente estou buscando uma oportunidade para atuar no desenvolvimento front end e você pode ver mais detalhes no meu portifólio [https://gabrielogregorio.com/
+](https://gabrielogregorio.com/).
 
 ---------
 
