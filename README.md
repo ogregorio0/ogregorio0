@@ -13,7 +13,7 @@ E meu maior projeto Desktop é a [Linguagem Safira](https://github.com/gabrielog
 
 - 🔭 Atualmente estou buscando vaga como desenvolvedor Web Junior, de preferência na modalidade remoto já que moro longe de quase qualquer lugar.
 - 🌱 Atualmente eu estudo NodeJs, VueJs, CSS, Acessibilidade na Web e sempre faço projetos práticos.
-- ⚡ Um fato importante sobre min, eu nunca fui ao espaço... 😄😄
+- ⚡ Um fato importante sobre min, eu nunca fui ao espaço igual ao meu amigo jeff ou o richard... 😄😄😄
 
 
 <!--
