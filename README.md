@@ -5,6 +5,8 @@ Eu sou o **gabrielogregorio/gabrielogregorio** seja bem vindo ao meu quartinho d
 Atualmente estou buscando uma oportunidade para atuar no desenvolvimento front end e você pode ver mais detalhes no meu portifólio [https://gabrielogregorio.com/
 ](https://gabrielogregorio.com/).
 
+Repositórios começando com ...(pontos) são de estudos, portanto, lá só terão scripts sem proposito definido.
+
 ---------
 
 Meu maior projeto Web é esse [Portal de Noticias](https://github.com/gabrielogregorio/Portal-de-noticias)
