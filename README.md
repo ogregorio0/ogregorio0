@@ -18,10 +18,10 @@ E meu maior projeto Desktop é a [Linguagem Safira](https://github.com/gabrielog
 - ⚡ Um fato importante sobre min, eu nunca fui ao espaço igual ao meu amigo jeff ou o richard... 😄😄😄
 
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=blueberry" /></a>
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=blueberry" /></a>
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Youtube-Reload&theme=blueberry" /></a>
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Portal-de-noticias&theme=blueberry" /></a>
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=digiteca&theme=blueberry" /></a>
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=portifolio-em-vuejs&theme=blueberry" /></a>
+
