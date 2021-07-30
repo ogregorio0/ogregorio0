@@ -18,8 +18,8 @@ E meu maior projeto Desktop é a [Linguagem Safira](https://github.com/gabrielog
 - ⚡ Um fato importante sobre min, eu nunca fui ao espaço igual ao meu amigo jeff ou o richard... 😄😄😄
 
 
-<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=blueberry" /></a>
-<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=blueberry" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=blueberry" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=blueberry" /></a>
 <a href="https://github.com/gabrielogregorio/Youtube-Reload"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Youtube-Reload&theme=blueberry" /></a>
 <a href="https://github.com/gabrielogregorio/Portal-de-noticias"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Portal-de-noticias&theme=blueberry" /></a>
 <a href="https://github.com/gabrielogregorio/digiteca"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=digiteca&theme=blueberry" /></a>
