@@ -2,8 +2,11 @@
 
 Atualmente estou buscando uma oportunidade para atuar no desenvolvimento web 
 
-<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=blueberry" /></a>    <a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=blueberry" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=radical&count_private=true&include_all_commits=true" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /></a>
 
+### Estatisticas desde 29/07/2021
+[![Gabriel Gregorio wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielogregorio&v=1&layout=compact&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ---------
 
 ### Minhas redes sociais
@@ -22,8 +25,6 @@ Atualmente estou buscando uma oportunidade para atuar no desenvolvimento web
 <img align="center" alt="Mongodb" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="Flask" height="30" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-
-----------------
 
 ![Snake animation](https://github.com/gabrielogregorio/gabrielogregorio/blob/output/github-contribution-grid-snake.svg)
   
