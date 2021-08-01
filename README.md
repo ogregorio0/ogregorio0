@@ -25,3 +25,6 @@ E meu maior projeto Desktop é a [Linguagem Safira](https://github.com/gabrielog
 <a href="https://github.com/gabrielogregorio/digiteca"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=digiteca&theme=blueberry" /></a>
 <a href="https://github.com/gabrielogregorio/portifolio-em-vuejs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=portifolio-em-vuejs&theme=blueberry" /></a>
 
+
+  ![Snake animation](https://github.com/gabrielogregorio/gabrielogregorio/blob/output/github-contribution-grid-snake.svg)
+  
