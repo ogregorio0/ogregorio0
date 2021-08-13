@@ -44,3 +44,11 @@ Atualmente estou buscando uma oportunidade para atuar no desenvolvimento backend
 
 ![Snake animation](https://github.com/gabrielogregorio/gabrielogregorio/blob/output/github-contribution-grid-snake.svg)
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=rede-social-com-tdd&theme=radical)](https://github.com/gabrielogregorio/rede-social-com-tdd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Sistema-de-Agendamento&theme=radical)](https://github.com/gabrielogregorio/Sistema-de-Agendamento)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Portal-de-noticias&theme=radical)](https://github.com/gabrielogregorio/Portal-de-noticias)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Youtube-Reload&theme=radical)](https://github.com/gabrielogregorio/Youtube-Reload)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=integracao-mercado-pago&theme=radical)](https://github.com/gabrielogregorio/integracao-mercado-pago)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Chat-real-time-web-sockets&theme=radical)](https://github.com/gabrielogregorio/Chat-real-time-web-sockets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=NodeJs-na-aws&theme=radical)](https://github.com/gabrielogregorio/NodeJs-na-aws)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Docker-com-PHP-mysql-e-nodeJs&theme=radical)](https://github.com/gabrielogregorio/Docker-com-PHP-mysql-e-nodeJs)
