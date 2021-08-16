@@ -45,6 +45,8 @@ Atualmente estou buscando uma oportunidade para atuar no desenvolvimento backend
 ![Snake animation](https://github.com/gabrielogregorio/gabrielogregorio/blob/output/github-contribution-grid-snake.svg)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=rede-social-com-tdd&theme=radical)](https://github.com/gabrielogregorio/rede-social-com-tdd)
+![Projeto mais recente](now.png)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Sistema-de-Agendamento&theme=radical)](https://github.com/gabrielogregorio/Sistema-de-Agendamento)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Portal-de-noticias&theme=radical)](https://github.com/gabrielogregorio/Portal-de-noticias)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Youtube-Reload&theme=radical)](https://github.com/gabrielogregorio/Youtube-Reload)
