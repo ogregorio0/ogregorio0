@@ -46,8 +46,10 @@ Atualmente estou buscando uma oportunidade para atuar no desenvolvimento backend
   
   
   
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Paradoxo-de-Monty-Hall-em-nextjs&theme=radical)](https://github.com/gabrielogregorio/Paradoxo-de-Monty-Hall-em-nextjs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Rede-Social&theme=radical)](https://github.com/gabrielogregorio/Rede-Social)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=quiz-nextjs&theme=radical)](https://github.com/gabrielogregorio/quiz-nextjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Paradoxo-de-Monty-Hall-em-nextjs&theme=radical)](https://github.com/gabrielogregorio/Paradoxo-de-Monty-Hall-em-nextjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Rede-Social&theme=radical)](https://github.com/gabrielogregorio/Rede-Social)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Sistema-de-Agendamento&theme=radical)](https://github.com/gabrielogregorio/Sistema-de-Agendamento)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Portal-de-noticias&theme=radical)](https://github.com/gabrielogregorio/Portal-de-noticias)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Youtube-Reload&theme=radical)](https://github.com/gabrielogregorio/Youtube-Reload)
