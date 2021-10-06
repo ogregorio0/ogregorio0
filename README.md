@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Gregório 👋
 
-Atualmente estou buscando uma oportunidade para atuar no desenvolvimento backend.
+Atualmente estou buscando uma oportunidade para atuar no desenvolvimento web, Node, reactJs e/ou VueJs.
 
 <a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=radical&count_private=true&include_all_commits=true" /></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /></a>
@@ -44,9 +44,8 @@ Atualmente estou buscando uma oportunidade para atuar no desenvolvimento backend
 
 ![Snake animation](https://github.com/gabrielogregorio/gabrielogregorio/blob/output/github-contribution-grid-snake.svg)
   
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=vavatips-frontend&theme=radical)](https://github.com/gabrielogregorio/vavatips-frontend)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Social-Network-Frontend&theme=radical)](https://github.com/gabrielogregorio/Social-Network-Frontend)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Social-Network-Backend&theme=radical)](https://github.com/gabrielogregorio/Social-Network-Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Social-Network-Frontend&theme=radical)](https://github.com/gabrielogregorio/Social-Network-Frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=pixel-paint&theme=radical)](https://github.com/gabrielogregorio/pixel-paint)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=palette-colors&theme=radical)](https://github.com/gabrielogregorio/palette-colors)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=CRUD-NEXTJS&theme=radical)](https://github.com/gabrielogregorio/CRUD-NEXTJS)
