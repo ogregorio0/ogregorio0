@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Gregório 👋
 
-Atualmente estou buscando uma oportunidade para atuar no desenvolvimento web, Node, reactJs e/ou VueJs.
+Gosto bastante de Javascript e atualmente faço projetos pessoas e sou dev frontend junior
 
 <a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=radical&count_private=true&include_all_commits=true?v=1" /></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=radical&count_private=true&include_all_commits=true?v=1" /></a>
