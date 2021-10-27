@@ -2,8 +2,10 @@
 
 Gosto bastante de Javascript e atualmente faço projetos pessoas e sou dev frontend junior
 
-<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=radical&count_private=true&include_all_commits=true?v=1" /></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=radical&count_private=true&include_all_commits=true?v=1" /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=radical&count_private=true&include_all_commits=true&langs_count=10?v=1" /></a>  
+
 
 ### Estatisticas desde 29/07/2021
 [![Gabriel Gregorio wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielogregorio&v=1&layout=compact&theme=radical&count_private=true&include_all_commits=true?v=1)](https://github.com/anuraghazra/github-readme-stats)
