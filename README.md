@@ -5,7 +5,7 @@
 
 
 ### Estatisticas desde 29/07/2021
-[![Gabriel Gregorio wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielogregorio&v=1&layout=compact&theme=radical&count_private=true&include_all_commits=true?v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel Gregorio wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielogregorio&v=1&layout=compact&theme=radical&count_private=true&include_all_commits=true?v=100)](https://github.com/anuraghazra/github-readme-stats)
 ---------
 
 ### Minhas redes sociais
