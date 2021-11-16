@@ -4,7 +4,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=radical&count_private=true&include_all_commits=true?v=4" /></a>
 
 
-### Estatísticas públicas desde 29/07/2021 (wakatime api)
+### Estatísticas de projetos pessoais e públicos desde 29/07/2021
 [![Gabriel Gregorio wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielogregorio&v=1&layout=compact&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ---------
 
