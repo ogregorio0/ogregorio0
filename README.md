@@ -40,18 +40,3 @@
 
 ![Snake animation](https://github.com/gabrielogregorio/gabrielogregorio/blob/output/github-contribution-grid-snake.svg)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=vavatips-frontend&theme=radical)](https://github.com/gabrielogregorio/vavatips-frontend)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Social-Network-Frontend&theme=radical)](https://github.com/gabrielogregorio/Social-Network-Frontend)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Social-Network-Backend&theme=radical)](https://github.com/gabrielogregorio/Social-Network-Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=pixel-paint&theme=radical)](https://github.com/gabrielogregorio/pixel-paint)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=palette-colors&theme=radical)](https://github.com/gabrielogregorio/palette-colors)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=CRUD-NEXTJS&theme=radical)](https://github.com/gabrielogregorio/CRUD-NEXTJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=quiz-nextjs&theme=radical)](https://github.com/gabrielogregorio/quiz-nextjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Paradoxo-de-Monty-Hall-em-nextjs&theme=radical)](https://github.com/gabrielogregorio/Paradoxo-de-Monty-Hall-em-nextjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Sistema-de-Agendamento&theme=radical)](https://github.com/gabrielogregorio/Sistema-de-Agendamento)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Portal-de-noticias&theme=radical)](https://github.com/gabrielogregorio/Portal-de-noticias)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=integracao-mercado-pago&theme=radical)](https://github.com/gabrielogregorio/integracao-mercado-pago)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Chat-real-time-web-sockets&theme=radical)](https://github.com/gabrielogregorio/Chat-real-time-web-sockets)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Docker-com-PHP-mysql-e-nodeJs&theme=radical)](https://github.com/gabrielogregorio/Docker-com-PHP-mysql-e-nodeJs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=template-admin-nextjs&theme=radical)](https://github.com/gabrielogregorio/template-admin-nextjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=Youtube-Reload&theme=radical)](https://github.com/gabrielogregorio/Youtube-Reload)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielogregorio&repo=NodeJs-na-aws&theme=radical)](https://github.com/gabrielogregorio/NodeJs-na-aws)
