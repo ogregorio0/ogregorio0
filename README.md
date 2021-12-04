@@ -1,4 +1,4 @@
-## Hi, I'm Gabriel Gregório 👋.
+## Hi, I'm Gabriel Gregório 👋 <span>&#x1f1e7;&#x1f1f7;</span>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=radical&count_private=true&include_all_commits=true&langs_count=10&layout=compact&v=4" /></a><a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=radical&count_private=true&include_all_commits=true?v=4" /></a>
 
@@ -6,7 +6,7 @@
 [![Gabriel Gregorio wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielogregorio&v=1&layout=compact&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ---------
 
-### social networks
+### Social networks
 
 <a href="https://www.facebook.com/gabriel.dev.gregorio/" target="_blank"><img align="center" alt="Facebook" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gabrielogregorio/" target="_blank"><img align="center" alt="Linkedin" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
