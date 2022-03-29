@@ -17,9 +17,6 @@
 [Outworld api](https://github.com/gabrielogregorio/outworld-api) - A social network concept API 
 (beginning of career)      
 
-### Social networks
-
-<a href="https://www.linkedin.com/in/gabrielogregorio/" target="_blank"><img align="center" alt="Linkedin" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ---------
 
 ### Statistics
