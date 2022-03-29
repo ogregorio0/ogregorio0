@@ -1,14 +1,31 @@
 ## Hi, I'm Gabriel Gregório 👋 <span>&#x1f1e7;&#x1f1f7;</span>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=radical&count_private=true&include_all_commits=true&langs_count=10&layout=compact&v=4" /></a><a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=radical&count_private=true&include_all_commits=true?v=4" /></a>
+### Projects deployed
 
----------
+[Valorant tips blog](https://github.com/gabrielogregorio/valorant-tips) - a valorant tips blog, leveraging the power of static pages. My main project currently     
+[Tic tac toe online](https://github.com/gabrielogregorio/tic-tac-toe-online/blob/main/README.md) - A little game that lets you play online with other players     
+[Safira lang](https://github.com/gabrielogregorio/safira) - A natural programming concept/language with an integrated IDE    
+[Youtube reload](https://github.com/gabrielogregorio/youtube-reload) - Generate youtube based random song recommendations     
+[Api valorant tips](https://github.com/gabrielogregorio/valorant-tips-api) - The Valorant Tips Blog API     
+
+## Others projects
+
+[New portal](https://github.com/gabrielogregorio/news-blog) - A news portal powered by node js and js    
+[Tess chatbot](https://github.com/gabrielogregorio/tereza) - An extension-based chatbot, which allows for expansion and understanding of natural language      
+[Outworld front](https://github.com/gabrielogregorio/outworld-front) - A social network concept 
+(beginning of career)       
+[Outworld api](https://github.com/gabrielogregorio/outworld-api) - A social network concept API 
+(beginning of career)      
 
 ### Social networks
 
-<a href="https://www.facebook.com/gabriel.dev.gregorio/" target="_blank"><img align="center" alt="Facebook" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gabrielogregorio/" target="_blank"><img align="center" alt="Linkedin" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ---------
+
+### Statistics
+
+<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=radical&count_private=true&include_all_commits=true&langs_count=10&layout=compact&v=4" /></a><a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=radical&count_private=true&include_all_commits=true?v=4" /></a>
+
 
 ### Main technologies
 
