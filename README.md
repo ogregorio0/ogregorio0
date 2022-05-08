@@ -1,6 +1,12 @@
 ## Hi, I'm Gabriel Gregório 👋 <span>&#x1f1e7;&#x1f1f7;</span>
 I'm a developer currently focused on typescript, I like to follow best practices, clean code, refactoring, do automated tests and I'm always looking to learn more.
 
+[![Created Badge](https://badges.pufler.dev/created/gabrielogregorio/gabrielogregorio)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/gabrielogregorio/gabrielogregorio)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/gabrielogregorio)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/gabrielogregorio)](https://badges.pufler.dev)
+
+
 ### Main technologies
 <p align="center">
 <img align="center" alt="Typescript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img align="center" alt="Javascript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img align="center" alt="Next JS" height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">  <img align="center" alt="ReactJs" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
@@ -19,6 +25,10 @@ I'm a developer currently focused on typescript, I like to follow best practices
 
 <a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=dracula&count_private=true&include_all_commits=true&langs_count=10&layout=compact&v=4&exclude_repo=safira,diana,tereza" /></a><a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=dracula&count_private=true&include_all_commits=true?v=4" /></a>
 
+### Programming a little over of...
+
+[![wakatime](https://wakatime.com/badge/user/7e6c6db0-9337-42cb-9507-4d4580997c1f.svg)](https://wakatime.com/@gabrielogregorio)
+
 ### Projects deployed
 
 [Valorant tips blog](https://github.com/gabrielogregorio/valorant-tips) - a valorant tips blog, leveraging the power of static pages. My main project currently     
@@ -31,10 +41,6 @@ I'm a developer currently focused on typescript, I like to follow best practices
 
 [New portal](https://github.com/gabrielogregorio/news-blog) - A news portal powered by node js and js    
 [Tess chatbot](https://github.com/gabrielogregorio/tereza) - An extension-based chatbot, which allows for expansion and understanding of natural language      
-[Outworld front](https://github.com/gabrielogregorio/outworld-front) - A social network concept 
-(beginning of career)       
-[Outworld api](https://github.com/gabrielogregorio/outworld-api) - A social network concept API 
-(beginning of career)      
 
 ---------
 
