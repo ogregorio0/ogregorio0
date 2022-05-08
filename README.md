@@ -1,12 +1,6 @@
 ## Hi, I'm Gabriel Gregório 👋 <span>&#x1f1e7;&#x1f1f7;</span>
 I'm a developer currently focused on typescript, I like to follow best practices, clean code, refactoring, do automated tests and I'm always looking to learn more.
 
-[![Created Badge](https://badges.pufler.dev/created/gabrielogregorio/gabrielogregorio)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/gabrielogregorio/gabrielogregorio)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/gabrielogregorio)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/gabrielogregorio)](https://badges.pufler.dev)
-
-
 ### Main technologies
 <p align="center">
 <img align="center" alt="Typescript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img align="center" alt="Javascript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img align="center" alt="Next JS" height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">  <img align="center" alt="ReactJs" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
