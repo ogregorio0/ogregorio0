@@ -16,7 +16,9 @@ I'm a developer currently focused on typescript, I like to follow best practices
 
 ### Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=dracula&count_private=true&include_all_commits=true&langs_count=20&layout=compact&v=4" /></a><a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=4" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=aura_dark&count_private=true&include_all_commits=true&langs_count=20&layout=compact&v=4" /></a><a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&v=4" /></a> 
+[![Gabriel Gregório wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielogregorio&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Programming a little over of...
 
