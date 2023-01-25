@@ -24,23 +24,11 @@ I'm a developer currently focused on typescript, I like to follow best practices
 
 [![wakatime](https://wakatime.com/badge/user/7e6c6db0-9337-42cb-9507-4d4580997c1f.svg)](https://wakatime.com/@gabrielogregorio)
 
-### Projects deployed
-
-[Valorant tips blog](https://github.com/gabrielogregorio/valorant-tips) - a valorant tips blog, leveraging the power of static pages. My main project currently     
-[Tic tac toe online](https://github.com/gabrielogregorio/tic-tac-toe-online/blob/main/README.md) - A little game that lets you play online with other players     
-[Safira lang](https://github.com/gabrielogregorio/safira) - A natural programming concept/language with an integrated IDE    
-[Youtube reload](https://github.com/gabrielogregorio/youtube-reload) - Generate youtube based random song recommendations     
-[Api valorant tips](https://github.com/gabrielogregorio/valorant-tips-api) - The Valorant Tips Blog API     
-
-## Others projects
-
-[New portal](https://github.com/gabrielogregorio/news-blog) - A news portal powered by node js and js    
-[Tess chatbot](https://github.com/gabrielogregorio/tereza) - An extension-based chatbot, which allows for expansion and understanding of natural language      
 
 ---------
 
 
-### Public contributions
+### Contributions
 
 ![Snake animation](https://github.com/gabrielogregorio/gabrielogregorio/blob/output/github-contribution-grid-snake.svg)
   
