@@ -18,13 +18,13 @@ Repositories with prefix "lab-" are for studies, and there shouldn't be much inn
 
 ### Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielogregorio&theme=aura_dark&count_private=true&include_all_commits=true&langs_count=20&layout=compact&v=4" /></a><a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielogregorio&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&v=4" /></a> 
-[![Gabriel Gregório wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielogregorio&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogregorio0&theme=aura_dark&count_private=true&include_all_commits=true&langs_count=20&layout=compact&v=4" /></a><a href="https://github.com/anuraghazra/github-readme-stats#customization"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ogregorio0&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&v=4" /></a> 
+[![Gabriel Gregório wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ogregorio0&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Programming a little over of...
 
-[![wakatime](https://wakatime.com/badge/user/7e6c6db0-9337-42cb-9507-4d4580997c1f.svg)](https://wakatime.com/@gabrielogregorio)
+[![wakatime](https://wakatime.com/badge/user/7e6c6db0-9337-42cb-9507-4d4580997c1f.svg)](https://wakatime.com/@ogregorio0)
 
 
 ---------
@@ -32,5 +32,5 @@ Repositories with prefix "lab-" are for studies, and there shouldn't be much inn
 
 ### Contributions
 
-![Snake animation](https://github.com/gabrielogregorio/gabrielogregorio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ogregorio0/ogregorio0/blob/output/github-contribution-grid-snake.svg)
   
