@@ -24,5 +24,5 @@ I'm a TypeScript developer, I currently work in front end development at Pravale
 
 ### Contributions
 
-![Snake animation](https://github.com/gabrielogregorio/gabrielogregorio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gabrielogregorio/gabrielogregorio/output/ocean.gif)
   
