@@ -14,13 +14,16 @@ jobs:
         with:
           github_user_name: gabrielogregorio
           outputs: |
-            dist/github-snake_v2.gif?color_snake=#f46800&color_dots=#c5cede,#7162d1,#5949bf,#4635b0,#27187e
+            dist/github-snake_v3.gif?color_snake=#f38e4d&color_dots=#c5cede,#6bd0fa,#59c9f7,#2bb6f0,#00b3fd
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-   
+
+
+
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
