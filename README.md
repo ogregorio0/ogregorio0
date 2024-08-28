@@ -1,6 +1,6 @@
 ## Olá, sou o Gabriel Gregório 👋 <span>&#x1f1e7;&#x1f1f7;</span>
 
-Sou desenvolvedor TypeScript, atualmente trabalho com desenvolvimento frontend no Pravaler, gosto de seguir boas práticas, refatorar código, criar testes automatizados e estou sempre em busca de aprender mais e melhorar.
+Atualmente trabalho como desenvolvedor frontend pleno no Pravaler, gosto de seguir boas práticas, refatorar código, criar testes automatizados e estou sempre em busca de aprender mais e melhorar.
 
 Amo a comunidade open source, já fiz algumas contribuições em projetos open source como o **react icons** [876](https://github.com/react-icons/react-icons/pull/879) e [900](https://github.com/react-icons/react-icons/pull/900), mas a maioria das minhas contribuições ainda são em projetos privados, de qualquer forma pretendo continuar com essas contribuições à comunidade sempre que possível.
 
