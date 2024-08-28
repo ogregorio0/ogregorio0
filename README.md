@@ -16,7 +16,7 @@ Amo a comunidade open source, já fiz algumas contribuições em projetos open s
 - [Jogo da velha Gamer](https://github.com/gabrielogregorio/tic-tac-toe-eletronic), simplesmente me diverti bastante nesse projeto de faculdade.
 - [Linguagem Safira](https://github.com/gabrielogregorio/safira), um dos meus primeiros e piores projetos em termos de qualidade de código, estava no comecinho de carreira e queria entender até onde dava para levar um projeto sem seguir boas práticas (até porque eu nem sabia o que era isso, só queria sentir na pele a experiência de desenvolver uma aplicação complexa), foi divertido, nada escalável, mas criei uma IDE e uma linguagem de programação usando expressões regulares e criando do zero minha própria forma de criar algo que se parecesse com uma linguagem de programação.
 - [ESLint, um pouco além do básico](https://medium.com/@gabrielogregorio/eslint-um-pouco-al%C3%A9m-do-b%C3%A1sico-19ce88c8b7a8), algumas dicas de ESLint
-- [Para projetos web tem que ter essas caracteristicas](https://github.com/gabrielogregorio/objetivos-em-um-projeto/blob/main/README.md)
+- [Para min, projetos web tem que ter essas caracteristicas para ser 10/10](https://github.com/gabrielogregorio/objetivos-em-um-projeto/blob/main/README.md)
 
 Eu tenho vários outros projetos, mas esses são alguns que lembrei de cara
 
